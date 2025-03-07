@@ -1,4 +1,6 @@
-# AILAB_TASK02
+## Levenshtein məsafəsi və digər sinring metriklərinin hesablaması
+Bu layihə, müxtəlif oxşarlıq ölçü metodlarından istifadə edərək verilənlərdəki uyğunsuzluqları aşkar etmək və səhvləri düzəltmək məqsədini daşıyır. Layihədə aşağıdakı metodlar və alqoritmlər tətbiq edilmişdir:
+
 Two_methods_to_calculate_Levenshtein_distance.ipynb
 Bu faylda, Levenshtein məsafəsinin iki müxtəlif üsulunun Python kodu təqdim olunub. Hər iki metodun necə işlədiyini və nəticələrin müqayisəsini görəcəksiniz.
 
